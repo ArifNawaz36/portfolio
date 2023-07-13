@@ -203,7 +203,7 @@ const openSource = {
 
 const bigProjects = {
   title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  subtitle: "LED/WORKED ON SOME STATE-OF-THE-ART AND AMAZING PROJECTS",
   projects: [
     {
       image: require("./assets/images/Hubex_logo.png"),
